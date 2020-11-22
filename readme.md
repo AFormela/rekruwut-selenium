@@ -1,3 +1,9 @@
+## How to run ##
+npm install
+npm test
+
+## Scenarios ##
+
 "search_test" - test of Browser
 Steps:
 1. User enters home page address: http://rekruwut.pl/.
