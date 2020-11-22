@@ -2,7 +2,7 @@
 
 ```npm install```
 
-```npm test``
+```npm test```
 
 ## Scenarios ##
 
