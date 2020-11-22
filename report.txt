@@ -1,0 +1,183 @@
+
+
+  Adding recruiter chrome
+    √ Enter login page (382ms)
+    √ Fill login and password (1165ms)
+    √ Enter My Recruters Info (323ms)
+    √ Creating new Recruiter (857ms)
+    √ Recruiter should be added correctly (388ms)
+
+  Adding recruiter firefox
+    √ Enter login page (380ms)
+    √ Fill login and password (1333ms)
+    √ Enter My Recruters Info (372ms)
+    √ Creating new Recruiter (1076ms)
+    √ Recruiter should be added correctly (137ms)
+
+  Adding recruiter MicrosoftEdge
+    √ Enter login page (356ms)
+    √ Fill login and password (1186ms)
+    √ Enter My Recruters Info (341ms)
+    √ Creating new Recruiter (869ms)
+    √ Recruiter should be added correctly (433ms)
+
+  Changing company address chrome
+    √ Enter login page (346ms)
+    √ Fill login and password (1186ms)
+    √ Enter My Company info (339ms)
+    √ Change My Company info (2371ms)
+    √ Changes should be saved correctly
+
+  Changing company address firefox
+    √ Enter login page (629ms)
+    √ Fill login and password (1310ms)
+    √ Enter My Company info (371ms)
+    √ Change My Company info (2497ms)
+    √ Changes should be saved correctly
+
+  Changing company address MicrosoftEdge
+    √ Enter login page (371ms)
+    √ Fill login and password (1188ms)
+    √ Enter My Company info (336ms)
+    √ Change My Company info (2370ms)
+    √ Changes should be saved correctly
+
+  Changing company adress with blank field chrome
+    √ Enter login page (407ms)
+    √ Fill login and password (1186ms)
+    √ Enter My Company info (322ms)
+    √ Try edit company info with blank field (2440ms)
+    √ Error should exists and have correct text
+
+  Changing company adress with blank field firefox
+    √ Enter login page (410ms)
+    √ Fill login and password (1350ms)
+    √ Enter My Company info (370ms)
+    √ Try edit company info with blank field (2301ms)
+    √ Error should exists and have correct text
+
+  Changing company adress with blank field MicrosoftEdge
+    √ Enter login page (377ms)
+    √ Fill login and password (1183ms)
+    √ Enter My Company info (338ms)
+    √ Try edit company info with blank field (2456ms)
+    √ Error should exists and have correct text
+
+  CV Generator Details Preview chrome
+    √ Enter login page (407ms)
+    √ Fill login and password (1187ms)
+    √ Enter My CVS (114ms)
+    √ Create new CV with name (567ms)
+    √ Enter city (624ms)
+    √ City on preview should be filled correcty
+
+  CV Generator Details Preview firefox
+    √ Enter login page (364ms)
+    √ Fill login and password (1324ms)
+    √ Enter My CVS (145ms)
+    √ Create new CV with name (455ms)
+    √ Enter city (758ms)
+    √ City on preview should be filled correcty
+
+  CV Generator Details Preview MicrosoftEdge
+    √ Enter login page (401ms)
+    √ Fill login and password (1203ms)
+    √ Enter My CVS (109ms)
+    √ Create new CV with name (561ms)
+    √ Enter city (625ms)
+    √ City on preview should be filled correcty
+
+  Editing recruiter chrome
+    √ Enter login page (403ms)
+    √ Fill login and password (1192ms)
+    √ Enter My Recruters Info and click edit (415ms)
+    √ Editing Recruiter (1716ms)
+    √ Searched Recruiters have their name edited (45ms)
+
+  Editing recruiter firefox
+    √ Enter login page (401ms)
+    √ Fill login and password (1337ms)
+    √ Enter My Recruters Info and click edit (631ms)
+    √ Editing Recruiter (1802ms)
+    √ Searched Recruiters have their name edited
+
+  Editing recruiter MicrosoftEdge
+    √ Enter login page (337ms)
+    √ Fill login and password (1177ms)
+    √ Enter My Recruters Info and click edit (403ms)
+    √ Editing Recruiter (1741ms)
+    √ Searched Recruiters have their name edited (45ms)
+
+  Testing password requirement in login chrome
+    √ Enter login page (612ms)
+    √ Fill login and no password (1124ms)
+    √ Error should exists and have correct text
+
+  Testing password requirement in login firefox
+    √ Enter login page (418ms)
+    √ Fill login and no password (1299ms)
+    √ Error should exists and have correct text
+
+  Testing password requirement in login MicrosoftEdge
+    √ Enter login page (362ms)
+    √ Fill login and no password (1120ms)
+    √ Error should exists and have correct text
+
+  Testing logout chrome
+    √ Enter login page (327ms)
+    √ Fill login and password (1175ms)
+    √ Logout menu button should exist
+    √ Logout should work (1063ms)
+
+  Testing logout firefox
+    √ Enter login page (410ms)
+    √ Fill login and password (1326ms)
+    √ Logout menu button should exist
+    √ Logout should work (1261ms)
+
+  Testing logout MicrosoftEdge
+    √ Enter login page (334ms)
+    √ Fill login and password (1180ms)
+    √ Logout menu button should exist
+    √ Logout should work (1097ms)
+
+  Testing password match error in register chrome
+    √ Enter register page (366ms)
+    √ Fill two other passwords (1150ms)
+    √ Error should exist and have correct text
+
+  Testing password match error in register firefox
+    √ Enter register page (374ms)
+    √ Fill two other passwords (1112ms)
+    √ Error should exist and have correct text
+
+  Testing password match error in register MicrosoftEdge
+    √ Enter register page (366ms)
+    √ Fill two other passwords (1150ms)
+    √ Error should exist and have correct text
+
+  Search box chrome
+    √ Enter home page (549ms)
+    √ Search Prog in search box (324ms)
+    √ Job position filter should be same as searching keyword
+    √ Searched offers should have position name starting with searching key
+
+  Search box firefox
+    √ Enter home page (643ms)
+    √ Search Prog in search box (266ms)
+    √ Job position filter should be same as searching keyword
+    √ Searched offers should have position name starting with searching key
+
+  Search box MicrosoftEdge
+    √ Enter home page (619ms)
+    √ Search Prog in search box (324ms)
+    √ Job position filter should be same as searching keyword
+    √ Searched offers should have position name starting with searching key
+
+
+  120 passing (3m)
+
+[mochawesome] Report JSON saved to D:\Projects\rekruwut-selenium\mochawesome-report\mochawesome.json
+
+[mochawesome] Report HTML saved to D:\Projects\rekruwut-selenium\mochawesome-report\mochawesome.html
+
